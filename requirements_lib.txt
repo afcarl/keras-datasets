@@ -4,4 +4,4 @@ scipy>=1.0,<1.1
 Pillow==5.0.0
 tensorflow>=1.4,<1.5
 Theano==1.0.1
-Keras>=2.0,<2.1
+Keras==2.1.3
