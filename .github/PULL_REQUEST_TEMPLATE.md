@@ -1,5 +1,5 @@
 <!-- ============================================================================================================
-Thanks for contributing to _FeedCrunch_! We really appreciate your help !
+Thanks for contributing to _Keras-Datasets_! We really appreciate your help !
 Before you submit your pull request, please make sure to check the following boxes by putting an x in the [ ] 
 ============================================================================================================= -->
 
